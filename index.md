@@ -4,15 +4,11 @@ published: true
 ---
 ## Description
 
-This is a first course in parallel and distributed computing. It is mostly hands-on using C++. Topics include: multithreading, synchronization, OpenMP,TBB,CUDA and MPI.
+This is an introductory programming course that uses the Python programming language, with
+balanced emphasis on programming concepts, elementary algorithms, and applications. Topics
+include data types, selection, repetition, lists, tuples, strings, dictionaries, functions, recursion,
+sorting and searching algorithms, files, plotting and data visualization, introduction to object
+oriented programming, testing and debugging, elementary numerical analysis methods, symbolic
+computation, and introduction to Matlab. The course has weekly laboratory assignments.
 
-## Prerequisite
-
-1. Good knowledge of C++. We will start the course with a quick review of C++, but the pace is fast and the emphasis will be on features of "modern" C++, such as move semantics, lambdas,smart pointers...
-1. Basic knowledge of computer architecture course, such as CPU instructions, registers, RAM and cache.
-
-## Assessment
-
-All homeworks require the use of Github where your submission is autograded. A basic knowledge of Git and a Github account is mandatory.
-
-For your convenience each homework starts from a skeleton repository, including build files for MSVC++  and cmake 
+[Syllabus](/files/EECE231Syllabus.pdf)
